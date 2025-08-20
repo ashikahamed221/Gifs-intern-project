@@ -11,7 +11,7 @@ import toast, { Toaster } from 'react-hot-toast';
 
 
   const handleres = async () => {
-         const apikey = 'BdknHtp2b4gEyhKWu6WKj8KOmyFpTpEI'
+         const apikey = 'your keys'
          const url = `https://api.giphy.com/v1/gifs/search?q=${query}&api_key=${apikey}&limit=12`;
           
         try{
