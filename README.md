@@ -7,7 +7,6 @@ Welcome to my Giphy-powered React app! This project lets users search for GIFs u
 - 🎨 Responsive Design: Built with Tailwind CSS for sleek styling across devices.
 - ⚡ Fast & Lightweight: Powered by React and Vite for blazing-fast performance.
 
-## 📸 Demo
 
     <img width="1919" height="1020" alt="Screenshot 2025-08-20 151404"      src="https://github.com/user-attachments/assets/f9942109-2882-4f93-b71f-2724fcf8f920" />
 
