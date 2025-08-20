@@ -10,3 +10,38 @@ Welcome to my Giphy-powered React app! This project lets users search for GIFs u
 
     <img width="1919" height="1020" alt="Screenshot 2025-08-20 151404"      src="https://github.com/user-attachments/assets/f9942109-2882-4f93-b71f-2724fcf8f920" />
 
+## 🛠️ Tech Stack
+
+- React + Vite
+- TailwindCSS
+- Giphy API
+- React-hot-toast
+
+## ✨ How It Works
+- Home Page: Users land on a welcoming screen with a button.
+- Navigation: Clicking the button transitions to the search interface.
+- Search Functionality: Users enter a keyword, triggering a fetch from Giphy.
+- Toast Feedback: Success or error messages appear via react-hot-toast.
+
+## 🧠 Lessons Learned
+- Handling conditional rendering between pages in React
+- Integrating third-party APIs and managing async data
+- Using react-hot-toast for clean UX feedback
+- Structuring components for scalability
+
+## 📦 Installation
+    git clone https://github.com/your-username/giphy-search-app.git
+    cd giphy-search-app
+    npm install
+    npm run dev
+
+
+
+
+
+
+
+
+
+
+
