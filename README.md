@@ -9,6 +9,8 @@ Welcome to my Giphy-powered React app! This project lets users search for GIFs u
 
     <img width="500" height="500" alt="Screenshot 2025-08-20 151404"      src="https://github.com/user-attachments/assets/f9942109-2882-4f93-b71f-2724fcf8f920" />
      <img width="500" height="500" alt="Screenshot 2025-08-20 153725" src="https://github.com/user-attachments/assets/bfd9d364-598a-41a4-800b-f8f1f7f9701d" />
+     <img width="645" height="789" alt="Screenshot 2025-08-21 203141" src="https://github.com/user-attachments/assets/7cc0b239-501f-42fb-97d0-b75c32131d8b" />
+
 
 
 ## 🛠️ Tech Stack
